@@ -1,13 +1,7 @@
+x = "belajar bae"
+def apa_aja():
+  global x
+  x = "setelah sekian lama"
+  print(x)
 
-x = ["apple", "banana"]
-y = ["apple", "banana"]
-z = x
-
-print(x is z) true
-print(x is y) false
-print(x == y) true
-
-mylist = ["apple", "banana", "cherry"]
-
-print(type(mylist))
-
+apa_aja()
