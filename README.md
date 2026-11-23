@@ -1,7 +1,2 @@
-x = "belajar bae"
-def apa_aja():
-  global x
-  x = "setelah sekian lama"
-  print(x)
-
-apa_aja()
+apa = "kamu adalah hal terbaik"
+print(apa[-5:-1])
