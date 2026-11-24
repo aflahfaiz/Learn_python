@@ -1,2 +1,2 @@
-apa = "kamu adalah hal terbaik"
-print(apa[-5:-1])
+a = "apaan sih"
+print(a.strip())
