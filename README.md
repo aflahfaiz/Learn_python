@@ -1,2 +1,4 @@
-a = "apaan sih"
-print(a.strip())
+import pandas as pd
+
+df = pd.read_csv("tested.csv")
+df.head()
